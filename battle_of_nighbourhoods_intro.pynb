@@ -1,0 +1,65 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Description of the problem:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "A company in the \"Travel and Living\" category decided to make a show to explore the most popular cuisines in New York city. \n",
+    "They conducted a survey among people and observed that the Indian cuisine is pretty popular in NY among others such as \n",
+    "Mexican,Chinese,Thai,etc. \n",
+    "They turned to their data analysis team to help them narrow down on the options and get the list of the best Indian restaurants\n",
+    "in terms of ratings,likes,price,etc which they would like to consider exploring for their show."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Data Source:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "For this project I will be using data from the following sources:\n",
+    "\n",
+    "1)New York City data that contains Borough, Neighborhoods along with their latitudes and longitudes.\n",
+    "* Data Source: https://cocl.us/new_york_dataset. \n",
+    "* Description: This data set contains the required information. And we will use this data set to explore various neighborhoods of New York city.\n",
+    "\n",
+    "2)Indian restaurants in New York city.\n",
+    "* Data Source: Foursquare API.\n",
+    "* Description: By using this API we will filter all the venues to get only Indian restaurants and their attributes such as rating,likes,tips."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2
+}
